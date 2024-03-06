@@ -49,20 +49,6 @@ function Home() {
             <div className="carousel-item">
               <img
                 className="h-96"
-                src="https://images.unsplash.com/photo-1515150144380-bca9f1650ed9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Burger"
-              />
-            </div>
-            <div className="carousel-item">
-              <img
-                className="h-96"
-                src="https://images.unsplash.com/photo-1522579479806-486feddb6d25?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Burger"
-              />
-            </div>
-            <div className="carousel-item">
-              <img
-                className="h-96"
                 src="https://daisyui.com/images/stock/photo-1572635148818-ef6fd45eb394.jpg"
                 alt="Burger"
               />
@@ -85,6 +71,20 @@ function Home() {
               <img
                 className="h-96"
                 src="https://daisyui.com/images/stock/photo-1559181567-c3190ca9959b.jpg"
+                alt="Burger"
+              />
+            </div>
+            <div className="carousel-item">
+              <img
+                className="h-96"
+                src="https://images.unsplash.com/photo-1515150144380-bca9f1650ed9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="Burger"
+              />
+            </div>
+            <div className="carousel-item">
+              <img
+                className="h-96"
+                src="https://images.unsplash.com/photo-1522579479806-486feddb6d25?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Burger"
               />
             </div>
